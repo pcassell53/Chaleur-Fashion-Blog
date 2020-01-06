@@ -1,3 +1,9 @@
+@font-face {
+	font-family: 'CarlsonGraD';
+	src: url("../CarlsonGrad.woff"),
+	url("../CarlsonGrad.ttf");
+}
+
 html, body {
 	background: #521209;
 	background-color: #521209;
