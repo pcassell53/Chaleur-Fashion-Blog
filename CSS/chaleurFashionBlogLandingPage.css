@@ -1,13 +1,7 @@
-@font-face {
-	font-family: 'CaslonGraD';
-	src: url("../CaslonGrad.woff"),
-	url("../CaslonGrad.ttf");
-}
-
 html, body {
 	background: #521209;
 	background-color: #521209;
-	font-family: 'CaslonGraD';
+	font-family: 'adobe-caslon-pro', serif;
 	color: #FFA69E;
 }
 
