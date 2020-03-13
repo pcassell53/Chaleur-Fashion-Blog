@@ -105,17 +105,17 @@ a:hover {
 
 @media only screen and (max-width: 600px) {
 	.mainPageImage {
-		width: 30vw;
+		width: 10vw;
 		height: auto;
 	}
 
 	.blogPostPic {
-		width: 25vw;
+		width: 10vw;
 		height: auto;
 	}
 
 	.imageGallery {
-		width: 30vw;
+		width: 10vw;
 		height: auto;
 	}
 }
