@@ -17,12 +17,14 @@ a:hover {
 
 .mainPageImage {
 	width: 30vw;
+	height: auto;
 	box-shadow: 10px 10px #1E0300;
 	border: 1px solid #1E0300;
 }
 
 .imageGallery {
 	width: 30vw;
+	height: auto;
 	box-shadow: 10px 10px #1E0300;
 	border: 1px solid #1E0300;
 	margin-bottom: 40px;
@@ -82,17 +84,18 @@ a:hover {
 	color: #1E0300;
 }
 
-#imageWithLogo {
-	margin-top: 30px;
-	margin-bottom: 30px;
-}
-
 .blogPostPic {
 	width: 25vw;
+	height: auto;
 	box-shadow: 10px 10px #1E0300;
 	border: 1px solid #1E0300;
 	margin: 20px;
 	float: right;
+}
+
+#imageWithLogo {
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 #articleTitlesBlogPost1 {
